@@ -255,8 +255,7 @@ This project uses publicly available UDAI data for analytical purposes under fai
 
 ## 👤 Author
 
-**Anjali RJ**  
-Repository: [anjalirj27/UDAI-DATA-HACKATHON](https://github.com/anjalirj27/UDAI-DATA-HACKATHON)
+**Anjali**  
 
 ---
 
